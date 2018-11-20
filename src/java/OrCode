@@ -55,4 +55,5 @@ public class BuildCode {
 
 }
 
-//二维码后面带的参数，可以通过httpServletRequest.getParameter(parameterNames.nextElement()));url后面的参数作为参数去获得即可
+//二维码后面带的参数，可以通过httpServletRequest.getParameter();
+//二维码图片url，后面的参数，直接可直接作为参数getParameter去获得
