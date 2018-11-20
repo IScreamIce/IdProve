@@ -19,9 +19,9 @@ public class BackCard {
         //最后在header中的格式(中间是英文空格)为Authorization:APPCODE 83359fd73fe94948385f570e3c139105
         headers.put("Authorization", "APPCODE " + appcode);
         Map<String, String> querys = new HashMap<String, String>();
-        querys.put("bankcard", "***848046971893****");
-        querys.put("idcard", "511322199*090*****");
-        querys.put("name", "李奎");
+        querys.put("bankcard", "***848046971893****");  //银行卡
+        querys.put("idcard", "511322199*090*****");     //身份证
+        querys.put("name", "李x");                      //名字
 
 
         try {
