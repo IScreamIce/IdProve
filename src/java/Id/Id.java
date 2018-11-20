@@ -43,5 +43,6 @@ public class Id {
             e.printStackTrace();
         }
     }
-    //{"status":"01","msg":"实名认证通过！","idCard":"511322199909067976","name":"李奎","sex":"男","area":"四川省南充市营山县","province":"四川省","city":"南充市","prefecture":"营山县","birthday":"1999-09-06","addrCode":"511322","lastCode":"6"}
+    //认证返回信息
+    //{"status":"01","msg":"实名认证通过！","idCard":"511322199909067976","name":"李*","sex":"男","area":"四川省xx市xx县","province":"四川省","city":"xx市","prefecture":"xx县","birthday":"199x-9x-0x","addrCode":"51132x","lastCode":"6"}
 }
